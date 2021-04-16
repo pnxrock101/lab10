@@ -2,7 +2,7 @@
 
 import requests
 
-url = "https://api.icndb.com/jokes/random"
+url = "https://icanhazdadjoke.com"
 
 payload={}
 headers = {}
